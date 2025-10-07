@@ -3,8 +3,7 @@
 This repository contains code snippets, explanations, and study notes for various programming languages. Organize your notes by language or topic in dedicated folders.
 
 ## Structure
-- html/
-- css/
+- html and css/
 - java/
 - python/
 - c/
